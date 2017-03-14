@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_control_disabled_holo.png",
+        "source": "/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/exploded-aar/Lightswitch/SeekArc_library/unspecified/res/drawable-xhdpi-v4/scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_control_normal_holo.png",
+        "source": "/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/exploded-aar/Lightswitch/SeekArc_library/unspecified/res/drawable-xhdpi-v4/scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_control_focused_holo.png",
+        "source": "/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/exploded-aar/Lightswitch/SeekArc_library/unspecified/res/drawable-xhdpi-v4/scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_control_pressed_holo.png",
+        "source": "/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/exploded-aar/Lightswitch/SeekArc_library/unspecified/res/drawable-xhdpi-v4/scrubber_control_pressed_holo.png"
+    }
+]

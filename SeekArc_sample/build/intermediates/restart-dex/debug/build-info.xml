@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="33680111648350"
+    token="-5457936409059715973" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="32003502329031"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/outputs/apk/seekarc-sample-SeekArc_sample-debug-1.1[2].apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="33680111648350" />
+
+</instant-run>

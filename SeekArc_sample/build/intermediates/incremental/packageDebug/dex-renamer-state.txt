@@ -1,0 +1,7 @@
+#Tue Jan 24 18:21:36 CET 2017
+base.0=/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df57992b0e39893c8e8a415171dd3e0b4420500c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58e64e9b63408b92a33298b554d64b4418c5b017/classes.dex
+base.1=/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58e64e9b63408b92a33298b554d64b4418c5b017
+file.0=/Users/outlau/AndroidStudioProjects/Lightswitch/SeekArc_sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df57992b0e39893c8e8a415171dd3e0b4420500c/classes.dex
